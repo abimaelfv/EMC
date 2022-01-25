@@ -136,6 +136,7 @@ public class Inversa {
         Inversa inversa = new Inversa();
 
         inversa.setMatriz();
+        inversa.getMatriz();
         inversa.ejecutarInvertir();
 
         System.exit(0);
